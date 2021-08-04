@@ -1,4 +1,5 @@
 #!/bin/bash
+
 path='*'
 
 if [ $# -ge 1 ];then
